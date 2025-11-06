@@ -117,7 +117,7 @@ const Feedbacks = () => {
           transition={{
             repeat: Infinity,
             ease: "linear",
-            duration: 40, // speed of scroll (lower = faster)
+            duration: 90, // speed of scroll (lower = faster)
           }}
         >
           {/* Duplicate achievements to create seamless loop */}
