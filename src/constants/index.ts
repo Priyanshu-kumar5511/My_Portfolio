@@ -149,7 +149,7 @@ const experiences: TExperience[] = [
     iconBg: "#E6DEDD",
     date: "June 2024 - August 2022",
     points: [
-      "During my two-month internship at MAKEINDAS, located within the Banaras Hindu University (BHU) campus, I had the unique opportunity to delve deep into the world of web development.",
+      "During my three-month internship at MAKEINDAS, located within the Banaras Hindu University (BHU) campus, I had the unique opportunity to delve deep into the world of web development.",
       "This offline internship provided a hands-on experience that allowed me to apply my theoretical knowledge in real-world projects, while also expanding my skill set in a dynamic and collaborative environment.",
       "Developed high-performance, responsive web applications, resulting in an 80% improvement in page load times and a 50% increase in site speed scores.",
       "Implemented smooth animations and responsive designs, enhancing user engagement and reducing bounce rates by 30%.",

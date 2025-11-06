@@ -19,7 +19,7 @@ import Divine1 from "../../assets/certificates/Divine1.jpg";
 // 📘 Education details
 const educationDetails = [
   {
-    title: "Higher Education",
+    title: "Intermediate",
     institution: "Divine Sainik School",
     location: "Varanasi, Uttar Pradesh",
     date: "2020 - 2022",
@@ -55,7 +55,7 @@ const educationDetails = [
     institution: "Lovely Professional University",
     location: "Phagwara, Punjab",
     date: "2025 - 2027",
-    cgpa: "NA",
+    cgpa: "Just started",
     icon: universityIcon2,
     iconBg: "#915EFF",
     points: [
